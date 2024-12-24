@@ -1,8 +1,6 @@
-# CNN-based Image Classification with Multiple Datasets
+# CNN-based Image Classification
 
-This repository contains two separate implementations of Convolutional Neural Networks (CNN) trained on two different datasets:
-
-Kaggle Dataset: The first notebook (CNN-Kaggle.ipynb) is trained on a dataset from Kaggle, focused on image classification tasks.
+This repository contains implementation of Convolutional Neural Networks (CNN) with:
 
 NUAA Dataset: The second notebook (CNN-NUAA.ipynb) uses the NUAA dataset, likely related to face detection or liveness detection, based on common uses of this dataset.
 Project Overview
@@ -11,12 +9,10 @@ This project showcases the application of CNNs for image classification using tw
 
 Key Features
 
-Multiple datasets: The CNNs are trained on different datasets, allowing for a comparison of model performance across domains.
-
 Keras/TensorFlow implementation: Both models are implemented using Keras and TensorFlow for easy customization and scalability.
 
 Visualization and Evaluation: The notebooks include model accuracy, loss visualizations, and evaluations such as confusion matrices, and accuracy scores to assess model performance.
 
-The CNN models achieve reasonable accuracy on both datasets, showcasing the potential of CNNs for different image classification tasks. The Kaggle model focuses on general image classification, while the NUAA model is trained on a more specialized task, like face liveness detection.
+The CNN models achieve reasonable accuracy on dataset, showcasing the potential of CNNs for different image classification tasks. The NUAA model is trained on a more specialized task, like face liveness detection.
 
 
